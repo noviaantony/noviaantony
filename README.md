@@ -4,4 +4,3 @@
 - pursuing my degree in computer science at singapore management university :thought_balloon:
 - currently exploring frontend technologies 
 - actively looking for internship and project opportunities
- 
